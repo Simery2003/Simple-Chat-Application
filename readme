@@ -1,0 +1,19 @@
+"""
+Simple Chat Application
+
+Concept: Networking and Multithreading
+
+Build a basic chat application that allows users to send messages to each other. Use concepts of networking for communication between clients and a server. Implement multithreading to handle multiple chat sessions simultaneously.
+
+Usage:
+- Run the server script to start the chat server.
+- Run the client script on multiple machines to connect to the server and start chatting.
+
+Dependencies:
+- Java
+
+Note: This is a basic implementation and may not include advanced features like encryption or user authentication.
+
+Author: [Simery_Kanna]
+Date: [24-11-23]
+"""
